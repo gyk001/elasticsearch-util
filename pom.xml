@@ -4,7 +4,7 @@
 
     <groupId>cn.guoyukun</groupId>
     <artifactId>elasticsearch-util</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -14,7 +14,7 @@
         <url>https://github.com/gyk001/elasticsearch-util</url>
         <connection>scm:git:git@github.com:gyk001/elasticsearch-util.git</connection>
         <developerConnection>scm:git:git@github.com:gyk001/elasticsearch-util.git</developerConnection>
-      <tag>v1.0</tag>
+      <tag>HEAD</tag>
   </scm>
     <build>
         <plugins>
